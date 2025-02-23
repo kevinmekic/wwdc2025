@@ -43,3 +43,10 @@ This SwiftUI-based application serves as a personal tracker that combines a soci
 
 **License:**  
 © Kevin Mekic 2025. All rights reserved.
+
+![1](https://github.com/user-attachments/assets/2e0fe51c-6d34-44c8-9043-25ebbab08202)
+![2](https://github.com/user-attachments/assets/411b8024-26fc-463b-9ab5-4e510617710a)
+![3](https://github.com/user-attachments/assets/008750e9-9db6-4447-8cb1-d019958b9a55)
+![4](https://github.com/user-attachments/assets/0686626f-44f1-4967-8502-705b3bc014d7)
+![5](https://github.com/user-attachments/assets/cd59326a-4022-4907-a069-620720bb8f50)
+![6](https://github.com/user-attachments/assets/3e84f090-9982-4c7f-8dc8-79536b4d49bc)
